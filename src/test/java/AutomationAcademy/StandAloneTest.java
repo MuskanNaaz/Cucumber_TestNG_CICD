@@ -16,7 +16,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import junit.framework.Assert;
 
 public class StandAloneTest {
-
+	// Updating the standalone branch to check the webhook 
 	public static void main(String[] args) {
 		String productName = "ZARA COAT 3";
 		WebDriverManager.chromedriver().setup();
